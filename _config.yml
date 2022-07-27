@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kevin Yu"
+title                    : "Kevin Yu / Blog"
 title_separator          : "-"
 name                     : &name "Kevin Yu"
 description              : &description "3DUI for Mixed Reality"
@@ -84,7 +84,7 @@ author:
   location         : "Germany"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=DXhMcasAAAAJ&hl=en&oi=sra"
-  email            : "kevin.yu[at]tum.de"
+  email            : "kevin.yu@tum.de"
   uri              :
   bitbucket        :
   codepen          :

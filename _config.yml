@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kevin Yu / Blog"
+title                    : "Kevin Yu / Homepage"
 title_separator          : "-"
 name                     : &name "Kevin Yu"
 description              : &description "3DUI for Mixed Reality"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Kevin Yu"
   avatar           : "profile.png"
-  bio              : "3D Enthusiast"
+  bio              : "Mixed Reality Enthusiast"
   location         : "Germany"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=DXhMcasAAAAJ&hl=en&oi=sra"

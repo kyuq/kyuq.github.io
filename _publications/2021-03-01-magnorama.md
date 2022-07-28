@@ -11,6 +11,10 @@ When users create hand-drawn annotations in Virtual Reality they often reach the
 
 ![Teaser](/images/MagnoramaTeaser.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3g9MDfUugjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-l324DKbY5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [Download paper here](https://www.researchgate.net/profile/Kevin_Yu22/publication/351463274_Magnoramas_Magnifying_Dioramas_for_Precise_Annotations_in_Asymmetric_3D_Teleconsultation/links/60e5a351299bf1b0319c71e2/Magnoramas-Magnifying-Dioramas-for-Precise-Annotations-in-Asymmetric-3D-Teleconsultation.pdf)
 
 

@@ -11,6 +11,8 @@ Current teleconsultation solutions for preclinical emergencies can transmit know
 
 ![Teaser](/images/ConsultationTeaser.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g-D8gp3Bcrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [Download paper here](https://dl.acm.org/doi/pdf/10.1145/3473856.3473883)
 
 

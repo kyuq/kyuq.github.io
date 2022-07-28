@@ -13,6 +13,8 @@ When two or more users attempt to collaborate in the same space with Augmented R
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gjuVBwuzNXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lJrXmf4IRME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [Download paper here](https://www.researchgate.net/profile/Kevin_Yu22/publication/358555302_Duplicated_Reality_for_Co-located_Augmented_Reality_Collaboration/links/6230bc474ce552783cbe4c65/Duplicated-Reality-for-Co-located-Augmented-Reality-Collaboration.pdf)
 
 

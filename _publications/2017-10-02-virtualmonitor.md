@@ -2,7 +2,7 @@
 title: "Towards Virtual Monitors For Image Guided Interventions-real-time Streaming To Optical See-through Head-mounted Displays"
 collection: publications
 permalink: /publication/2017-10-02-virtualmonitor
-excerpt: 'Image guidance is crucial for the success of many interventions. Images are displayed on designated monitors that cannot be positioned optimally due to sterility and spatial constraints. This indirect visualization causes potential occlusion, hinders hand-eye coordination, leads to increased procedure duration and surgeon load. We propose a virtual monitor system that displays medical images in a mixed reality visualization using optical see-through head-mounted displays. The system streams high-resolution medical images from any modality to the head-mounted display in real-time that are blended with the surgical site. It allows for mixed reality visualization of images in head-, world-, or body-anchored mode…'
+excerpt: "Image guidance is crucial for the success of many interventions. Images are displayed on designated monitors that cannot be positioned optimally due to sterility and spatial constraints. This indirect visualization causes potential occlusion, hinders hand-eye coordination, leads to increased procedure duration and surgeon load. We propose a virtual monitor system that displays medical images in a mixed reality visualization using optical see-through head-mounted displays. The system streams high-resolution medical images from any modality to the head-mounted display in real-time that are blended with the surgical site. It allows for mixed reality visualization of images in head-, world-, or body-anchored mode…"
 date: 2017-10-02
 venue: 'arXiv preprint arXiv:1710.00808'
 paperurl: 'https://arxiv.org/abs/1710.00808'

@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Dr.rer.nat, Technical University Munich (TUM), 2023 (expected)
+* M.S. in Informatics, Technical University Munich (TUM), 2018
+* B.S. in Informatics, Technical University Munich (TUM), 2015
 
-Work experience
+Work and Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2022 - Recent: Research / Software Development Engineer
+  * medPhoton GmbH
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* December 2018 - March 2022: Research Assistant
+  * Research Group MITI, University Hospital Rechts der Isar, Technical University Munich
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* June 2018 - November 2018: Lead Software Engineer for Augmented Reality
+  * Pointu3D GmbH
+
+* March 2017 - October 2017: Visiting Research Scholar
+  * Laboratory for Computational Sensing and Robotics (LCSR), Johns-Hopkins University, Baltimore MD, USA
+
+* September 2016 - April 2017: Research Assistant
+  * Narvis Lab, Ludwig-Maximilians University, Munich
+
 
 Publications
 ======
@@ -42,18 +39,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

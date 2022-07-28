@@ -19,7 +19,7 @@ Page is still under construction!
 ## Research Highlights
 
 Magnoramas
-![Magnorama](/images/MagnoramaTeaser.png)
+![Magnorama](/images/MagnoramaTeaser.jpg)
 
 Duplicated Reality
-![Duplicated Reality](/images/DuplicatedRealityTeaser.png)
+![Duplicated Reality](/images/DuplicatedRealityTeaser.jpg)
